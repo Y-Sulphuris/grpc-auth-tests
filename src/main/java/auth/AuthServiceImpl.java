@@ -1,4 +1,4 @@
-package com.ydo4ki;
+package auth;
 
 import io.grpc.stub.StreamObserver;
 
